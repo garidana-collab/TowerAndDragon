@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./Assets/Sprites/UI/image_title.png" alt="Tower and Dragons 타이틀 이미지" width="100%" />
-
-<img src="./Assets/Sprites/UI/image_title_logo.png" alt="Tower and Dragons 로고" width="520" />
+<img src="./Docs/Images/TND_16_9TitleImage.png" alt="Tower and Dragons 타이틀 이미지" width="100%" />
 
 # Tower and Dragons
 
